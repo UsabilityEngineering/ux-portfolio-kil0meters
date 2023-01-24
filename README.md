@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+I'm Miles Benton. I'm a Computer Science major who is interested in developing useful applications.
 
 ## UX Team Project
 
