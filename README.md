@@ -4,7 +4,7 @@ I'm Miles Benton. I'm a Computer Science major who is interested in developing u
 
 ## UX Team Project
 
-Coming soon.
+[Chore No More](https://github.com/UsabilityEngineering/ChoreNoMore)
 
 ## UX Journal
 
